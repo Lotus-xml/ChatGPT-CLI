@@ -73,9 +73,10 @@ def chat():
                 uwu.send_chat_break("chinchilla")
                 giantcock()
                 print('Context Cleared!')
-            #clear console
+            #clear console command
             elif owo == "{clear}":
                 giantcock()
+            #help command
             elif owo == "{help}":
                 giantcock()
                 cumsayiscool()
