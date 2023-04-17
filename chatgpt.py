@@ -14,7 +14,7 @@ poe.user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, lik
 
 #poe.Client
 #proxy format: protocol://host:port (duh)
-#proxy example: simply change the line below to smth like this: uwu = poe.Client("token", proxy="socks5://127.0.0.1:9050") 
+#proxy example: uwu = poe.Client("token", proxy="socks5://127.0.0.1:9050") 
 uwu = poe.Client("token here")
 
 #clear/cls function
