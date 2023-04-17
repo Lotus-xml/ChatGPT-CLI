@@ -23,6 +23,7 @@ def giantcock():
     os.system("clear")
    elif sys.platform == "win32":
     os.system("cls")
+#call clear/cls function
 giantcock()
 
 #banner
